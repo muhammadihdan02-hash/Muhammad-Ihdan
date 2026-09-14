@@ -19,6 +19,6 @@ BAHASA & TEKNOLOGI
 * **Database & Tools:** [ MySQL, Git, GitHub, VS Code]
 
 HUBUNGI SAYA 
-* **LinkedIn:** [Masukkan Tautan Profil LinkedIn]
-* **Email:** [Masukkan Alamat Email]
+* **LinkedIn:
+* **Email:
 * **Instagram:** [@kyouzy2]
